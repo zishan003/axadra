@@ -1,4 +1,4 @@
-from lib.lib import scraperEngine
+from lib import scraperEngine
 
 def main():
 	scrape = scraperEngine(config)
